@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bingnavigator/meeting-notes-to-gdoc/blob/main/notebook/meeting_notes_to_gdoc.ipynb)
+
 # meeting-notes-to-gdoc
 
 
